@@ -28,12 +28,18 @@ Today I Learned
 
 ### 정리
 
+- [`210125~210129_Java_DAY1~DAY5.md`](https://github.com/SEONHASHIM/TIL/blob/master/Java/210125~210129_Java_DAY1~DAY5.md) : JVM 실행 메카니즘, Java 메모리 구조, 변수, 연산자, 조건문, 반복문, 배열 등을 정리해둔 블로그 링크
 - [`210203_Java_DAY6.md`](https://github.com/SEONHASHIM/TIL/blob/master/Java/210203_Java_DAY6.md) : 객체 지향 프로그래밍 특징 정리
+- [`210204_Java_DAY7`](https://github.com/SEONHASHIM/TIL/blob/master/Java/210204_Java_DAY7.md) : 생성자, 메소드, 사용지정자에 대한 정리
 
 ### workspace
 
 - [`Basic_ch6`](https://github.com/SEONHASHIM/TIL/tree/master/Java/workspace/Basic_ch6)
-  - 캡슐화 예제 코드 : [encapsulation](https://github.com/SEONHASHIM/TIL/tree/master/Java/workspace/Basic_ch6/src/test/encapsulation)
-  - 상속 예제 코드 : [inheritance](https://github.com/SEONHASHIM/TIL/tree/master/Java/workspace/Basic_ch6/src/test/inheritance), [shape](https://github.com/SEONHASHIM/TIL/tree/master/Java/workspace/Basic_ch6/src/test/shape)
+  - [`encapsulation`](https://github.com/SEONHASHIM/TIL/tree/master/Java/workspace/Basic_ch6/src/test/encapsulation) : 캡슐화 예제 코드
+  - [`inheritance`](https://github.com/SEONHASHIM/TIL/tree/master/Java/workspace/Basic_ch6/src/test/inheritance), [`shape`](https://github.com/SEONHASHIM/TIL/tree/master/Java/workspace/Basic_ch6/src/test/shape) : 상속 예제 코드
+  - [`constructor`](https://github.com/SEONHASHIM/TIL/tree/master/Java/workspace/Basic_ch6/src/test/constructor) : 생성자 예제 코드
+  - [`method`](https://github.com/SEONHASHIM/TIL/tree/master/Java/workspace/Basic_ch6/src/test/method) : 메소드 예제 코드
+  - [`static_`](https://github.com/SEONHASHIM/TIL/tree/master/Java/workspace/Basic_ch6/src/test/static_) : static 예제 코드
+  - [`final_`](https://github.com/SEONHASHIM/TIL/tree/master/Java/workspace/Basic_ch6/src/test/final_) : final 예제 코드
 - [`Basic_ch7`](https://github.com/SEONHASHIM/TIL/tree/master/Java/workspace/Basic_ch7)
-  - 다형성 예제 코드 : [fly](https://github.com/SEONHASHIM/TIL/tree/master/Java/workspace/Basic_ch7/src/my/fly), [shop](https://github.com/SEONHASHIM/TIL/tree/master/Java/workspace/Basic_ch7/src/my/shop)
+  - [`fly`](https://github.com/SEONHASHIM/TIL/tree/master/Java/workspace/Basic_ch7/src/my/fly), [`shop`](https://github.com/SEONHASHIM/TIL/tree/master/Java/workspace/Basic_ch7/src/my/shop) : 다형성 예제 코드
