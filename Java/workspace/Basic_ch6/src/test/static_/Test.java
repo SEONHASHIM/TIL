@@ -3,25 +3,26 @@ package test.static_;
 public class Test {
 	
 	public static void main(String[] args) {
-		A o1=new A();
-		o1.i++;
-		o1.printI();
 		
-		A o2=new A();
-		o2.i++;
-		o2.printI();
+		A o1=new A("전은수");
+		A.count++;
 		
-		//객체 생성 안하고 호출 가능
-        A.i++;
-        A.printI();
+		A o2=new A("홍길동");
+		A.count++;
+		
+		A.printCount();
 
 	}
 
 }
 
 class A{
-	static int i=10;
-	static public void printI() {
-		System.out.println(i);
+	String name;
+	static int count=0;//방문자수
+	static public void printCount() {
+		System.out.println(count);
+	}
+	A(String name){
+		this.name=name;
 	}
 }
