@@ -1,7 +1,5 @@
 package my.fly;
 
-public class Animal {
-	public void eat() {
-		
-	}
+public abstract class Animal {
+	public abstract void eat() ;
 }

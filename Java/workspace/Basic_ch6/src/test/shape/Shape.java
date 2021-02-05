@@ -1,7 +1,5 @@
 package test.shape;
 
-public class Shape {
-	public void area() { //정의
-		//구현
-	}
+public abstract class Shape {
+	abstract public void area();
 }
